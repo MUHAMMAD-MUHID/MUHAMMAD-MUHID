@@ -44,7 +44,7 @@ class MuhammadMuhid:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake-dark.svg"/>
@@ -53,9 +53,8 @@ class MuhammadMuhid:
 </picture>
 
 <details>
-<summary>⚙️ One-time snake setup — click to expand</summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+
 
 ```yaml
 name: Generate Snake Animation
@@ -86,8 +85,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-Then go to **Actions** tab and click **Run workflow** once.
 
 </details>
 
