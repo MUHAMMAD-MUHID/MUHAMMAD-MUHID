@@ -4,28 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C8FD1&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Flutter+%7C+React+%7C+Python+developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+internships+%26+collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Muhid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://main--muhammad-muhid-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:muhidbalouch@gmail.com">
-  <img src="https://img.shields.io/badge/Email-muhidbalouch%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/MUHAMMAD-MUHID">
-  <img src="https://img.shields.io/github/followers/MUHAMMAD-MUHID?style=for-the-badge&logo=github&logoColor=white&color=1a3a5c&label=GitHub" alt="GitHub"/>
-</a>
-
-<br/><br/>
+<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Muhid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://main--muhammad-muhid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:muhidbalouch@gmail.com"><img src="https://img.shields.io/badge/Email-muhidbalouch%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/MUHAMMAD-MUHID"><img src="https://img.shields.io/github/followers/MUHAMMAD-MUHID?style=for-the-badge&logo=github&logoColor=white&color=1a3a5c&label=GitHub" alt="GitHub"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=MUHAMMAD-MUHID&style=for-the-badge&color=1a3a5c&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
----
+&nbsp;
 
 ## 🧠 About Me
 
@@ -34,12 +22,12 @@ class MuhammadMuhid:
 
     name       = "Muhammad Muhid"
     location   = "Islamabad, Pakistan"
-    university = "Air University | BSc Computer Science (2023-2027)"
+    university = "Air University | BSc CS (2023-2027)"
     role       = "Full-Stack Developer and AI Enthusiast"
-    seeking    = "Internship in Software / AI Engineering"
+    seeking    = "Internship in Software or AI Engineering"
 
     working_on = [
-        "AI Phishing Email Detector  (ML + React + Firebase)",
+        "AI Phishing Email Detector (ML + React + Firebase)",
         "Flutter mobile development",
         "Open-source contributions",
     ]
@@ -52,6 +40,8 @@ class MuhammadMuhid:
     fun_fact = "I led an AI and Cybersecurity seminar for 200+ students"
 ```
 
+&nbsp;
+
 ---
 
 ## 🐍 Contribution Snake
@@ -63,9 +53,9 @@ class MuhammadMuhid:
 </picture>
 
 <details>
-<summary>⚙️ Click here for the one-time snake setup (GitHub Actions workflow)</summary>
+<summary>⚙️ One-time snake setup — click to expand</summary>
 
-Create this file in your profile repo at `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -97,7 +87,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After saving, go to **Actions tab** and click **Run workflow** manually once.
+Then go to **Actions** tab and click **Run workflow** once.
 
 </details>
 
@@ -108,6 +98,7 @@ After saving, go to **Actions tab** and click **Run workflow** manually once.
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -117,6 +108,7 @@ After saving, go to **Actions tab** and click **Run workflow** manually once.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks and Libraries
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -125,6 +117,7 @@ After saving, go to **Actions tab** and click **Run workflow** manually once.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Databases and Cloud
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -133,6 +126,7 @@ After saving, go to **Actions tab** and click **Run workflow** manually once.
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Tools and Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -152,10 +146,6 @@ After saving, go to **Actions tab** and click **Run workflow** manually once.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-MUHID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2c8fd1&icon_color=2c8fd1&text_color=c9d1d9"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-MUHID&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c8fd1&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MUHAMMAD-MUHID&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c8fd1&ring=2c8fd1&fire=ff6b35&currStreakLabel=2c8fd1&sideLabels=2c8fd1&dates=8b949e)](https://git.io/streak-stats)
 
@@ -181,16 +171,14 @@ ML-powered email security with live Outlook API integration, trained classificat
 - ✅ Trained ML classifier
 - ✅ Real-time analytics dashboard
 
-<a href="https://github.com/MUHAMMAD-MUHID/AI_Phishing_Mail_Detector">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/MUHAMMAD-MUHID/AI_Phishing_Mail_Detector"><img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
 ### 📄 AI Resume Builder
 
-Gemini-powered Flutter mobile app that generates tailored resumes from user input with Firebase auth and real-time sync.
+Gemini-powered Flutter app generating tailored resumes from user input, with Firebase auth and real-time sync.
 
 **Stack:** `Flutter` `Dart` `Firebase` `Gemini API`
 
@@ -198,9 +186,7 @@ Gemini-powered Flutter mobile app that generates tailored resumes from user inpu
 - ✅ Firebase Authentication
 - ✅ Cross-platform mobile
 
-<a href="https://github.com/MUHAMMAD-MUHID/Ai-resume-builder">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/MUHAMMAD-MUHID/Ai-resume-builder"><img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -209,7 +195,7 @@ Gemini-powered Flutter mobile app that generates tailored resumes from user inpu
 
 ### 🔐 File Encryption Tool
 
-Desktop app implementing AES and DES algorithms via Python Cryptography library with a clean Tkinter GUI.
+Desktop app implementing AES and DES via Python Cryptography library with drag-and-drop Tkinter GUI.
 
 **Stack:** `Python` `Tkinter` `AES` `DES` `Cryptography`
 
@@ -217,16 +203,14 @@ Desktop app implementing AES and DES algorithms via Python Cryptography library 
 - ✅ Drag-and-drop file selection
 - ✅ Secure local data protection
 
-<a href="https://github.com/MUHAMMAD-MUHID/file-encryption-decryption">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/MUHAMMAD-MUHID/file-encryption-decryption"><img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
 ### 🚖 Taxi Booking System
 
-Full booking platform with customer and driver registration, ride assignment algorithm, history tracking, and admin panel.
+Full booking platform with registration, ride assignment algorithm, history tracking, and admin panel.
 
 **Stack:** `Python` `Tkinter` `OOP Design`
 
@@ -234,9 +218,7 @@ Full booking platform with customer and driver registration, ride assignment alg
 - ✅ Full booking history
 - ✅ Admin management panel
 
-<a href="https://github.com/MUHAMMAD-MUHID/Taxi-Management-System">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/MUHAMMAD-MUHID/Taxi-Management-System"><img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -252,9 +234,9 @@ Full booking platform with customer and driver registration, ride assignment alg
 
 | Role | Organization | Period | Impact |
 |------|-------------|--------|--------|
-| 🎤 **Event Lead** | Tech Awareness Seminar, ICB Boys School | May 2025 | Led AI and Cybersecurity sessions for 200+ students |
-| 👥 **Active Member** | AUCIS, Air University Computing and Innovation Society | 2025 - Present | Co-organizing university-level tech events |
-| 💻 **Team Member** | Google Developer Groups (GDG) Air University | 2024 - 2025 | Firebase and Flutter community workshops |
+| 🎤 **Event Lead** | Tech Awareness Seminar, ICB Boys School | May 2025 | AI and Cybersecurity for 200+ students |
+| 👥 **Active Member** | AUCIS, Air University | 2025 - Present | Co-organizing university tech events |
+| 💻 **Team Member** | Google Developer Groups (GDG) Air University | 2024 - 2025 | Firebase and Flutter workshops |
 
 </div>
 
@@ -286,19 +268,9 @@ Full booking platform with customer and driver registration, ride assignment alg
 
 > *"Actively seeking internship opportunities in Software Engineering or AI. If you are building something interesting, let's talk."*
 
-<br/>
-
-<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://main--muhammad-muhid-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-<a href="mailto:muhidbalouch@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
+<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://main--muhammad-muhid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/View_My_Portfolio-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="mailto:muhidbalouch@gmail.com"><img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0f2027&height=120&section=footer&animation=fadeIn" alt="Footer"/>
 
