@@ -1,44 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a5c,100:2c5f8a&height=200&section=header&text=Muhammad%20Muhid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=a8c8e8&animation=fadeIn" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a5c,100:2c5f8a&height=200&section=header&text=Muhammad%20Muhid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=a8c8e8&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C8FD1&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Flutter+%7C+React+%7C+Python+developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+internships+%26+collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C8FD1&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+🤖;Flutter+%7C+React+%7C+Python+Developer+🚀;Open+to+internships+%26+collaborations+👋)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Muhid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://main--muhammad-muhid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:muhidbalouch@gmail.com"><img src="https://img.shields.io/badge/Email-muhidbalouch%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/MUHAMMAD-MUHID"><img src="https://img.shields.io/github/followers/MUHAMMAD-MUHID?style=for-the-badge&logo=github&logoColor=white&color=1a3a5c&label=GitHub" alt="GitHub"/></a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=MUHAMMAD-MUHID&style=for-the-badge&color=1a3a5c&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Muhid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://main--muhammad-muhid-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-1a3a5c?style=for-the-badge"/>
+</a>
+
+<a href="mailto:muhidbalouch@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
-&nbsp;
+---
 
 ## 🧠 About Me
 
 ```python
 class MuhammadMuhid:
-
-    name       = "Muhammad Muhid"
-    location   = "Islamabad, Pakistan"
-    university = "Air University | BSc CS (2023-2027)"
-    role       = "Full-Stack Developer and AI Enthusiast"
-    seeking    = "Internship in Software or AI Engineering"
+    name = "Muhammad Muhid"
+    location = "Islamabad, Pakistan"
+    role = "Full-Stack Developer & AI Enthusiast"
+    seeking = "Software / AI Internship"
 
     working_on = [
-        "AI Phishing Email Detector (ML + React + Firebase)",
-        "Flutter mobile development",
-        "Open-source contributions",
+        "AI Phishing Email Detector",
+        "Flutter development",
+        "Open-source contributions"
     ]
-
-    ask_me_about = [
-        "React", "Flutter", "Python",
-        "Firebase", "REST APIs", "Machine Learning",
-    ]
-
-    fun_fact = "I led an AI and Cybersecurity seminar for 200+ students"
-```
 
 &nbsp;
 
