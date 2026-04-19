@@ -1,22 +1,19 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a5c,100:2c5f8a&height=200&section=header&text=Muhammad%20Muhid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=a8c8e8&animation=fadeIn" alt="Header Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a5c,100:2c5f8a&height=200&section=header&text=Muhammad%20Muhid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=a8c8e8&animation=fadeIn" alt="Header"/>
 
-<!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C8FD1&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Flutter+%7C+React+%7C+Python+developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+internships+%26+collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES ROW — all with real href anchor tags -->
-<a href="https://www.linkedin.com/in/muhid-baloach-43763130b/">
+<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/">
   <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Muhid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://main--muhammad-muhid-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:muhidbalouch@gmail.com">
-  <img src="https://img.shields.io/badge/Email-muhidbalouch@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-muhidbalouch%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/MUHAMMAD-MUHID">
   <img src="https://img.shields.io/github/followers/MUHAMMAD-MUHID?style=for-the-badge&logo=github&logoColor=white&color=1a3a5c&label=GitHub" alt="GitHub"/>
@@ -34,37 +31,41 @@
 
 ```python
 class MuhammadMuhid:
-    def __init__(self):
-        self.name        = "Muhammad Muhid"
-        self.location    = "Islamabad, Pakistan 🇵🇰"
-        self.university  = "Air University — BSc Computer Science (2023–2027)"
-        self.role        = "Full-Stack Developer & AI Enthusiast"
-        self.seeking     = "Internship in Software / AI Engineering"
 
-    @property
-    def currently_working_on(self):
-        return [
-            "AI-powered Phishing Email Detector (ML + React + Firebase)",
-            "Expanding my Flutter mobile development skills",
-            "Open-source contributions & building in public",
-        ]
+    name       = "Muhammad Muhid"
+    location   = "Islamabad, Pakistan"
+    university = "Air University | BSc Computer Science (2023-2027)"
+    role       = "Full-Stack Developer and AI Enthusiast"
+    seeking    = "Internship in Software / AI Engineering"
 
-    @property
-    def ask_me_about(self):
-        return ["React", "Flutter", "Python", "Firebase", "REST APIs", "Machine Learning"]
+    working_on = [
+        "AI Phishing Email Detector  (ML + React + Firebase)",
+        "Flutter mobile development",
+        "Open-source contributions",
+    ]
 
-    def fun_fact(self):
-        return "I led an AI & Cybersecurity seminar for 200+ high school students 🎤"
+    ask_me_about = [
+        "React", "Flutter", "Python",
+        "Firebase", "REST APIs", "Machine Learning",
+    ]
+
+    fun_fact = "I led an AI and Cybersecurity seminar for 200+ students"
 ```
 
 ---
 
 ## 🐍 Contribution Snake
 
-> **Setup required — one time only.** Go to your profile repo → **Actions** tab → **New workflow** → paste the YAML below → save as `.github/workflows/snake.yml`. The snake will then auto-generate every 24 hours from your real commit grid.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake.svg"/>
+</picture>
 
 <details>
-<summary>Click to expand — <code>snake.yml</code> workflow file</summary>
+<summary>⚙️ Click here for the one-time snake setup (GitHub Actions workflow)</summary>
+
+Create this file in your profile repo at `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake Animation
@@ -96,13 +97,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-</details>
+After saving, go to **Actions tab** and click **Run workflow** manually once.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake.svg"/>
-  <img alt="Contribution snake eating green commit dots" src="https://raw.githubusercontent.com/MUHAMMAD-MUHID/MUHAMMAD-MUHID/output/github-snake.svg"/>
-</picture>
+</details>
 
 ---
 
@@ -119,7 +116,7 @@ jobs:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks and Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -127,7 +124,7 @@ jobs:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Databases & Cloud
+### Databases and Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -135,7 +132,7 @@ jobs:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Tools & Platforms
+### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -175,36 +172,34 @@ jobs:
 <td width="50%">
 
 ### 🛡️ AI Phishing Mail Detector
-> ML-powered email security tool with Outlook integration
 
-Built an end-to-end security pipeline that fetches emails via Outlook API, classifies them using a trained ML model, and surfaces flagged threats on a real-time React dashboard.
+ML-powered email security with live Outlook API integration, trained classification model, and real-time React threat dashboard.
 
 **Stack:** `React` `Python` `Scikit-learn` `PostgreSQL` `Firebase`
 
-- ✅ Live Outlook API integration
-- ✅ Trained ML classification model
-- ✅ Real-time threat dashboard
+- ✅ Outlook API integration
+- ✅ Trained ML classifier
+- ✅ Real-time analytics dashboard
 
 <a href="https://github.com/MUHAMMAD-MUHID/AI_Phishing_Mail_Detector">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%">
 
 ### 📄 AI Resume Builder
-> Gemini-powered mobile app for tailored resume generation
 
-Users input their details and the Gemini API generates a professionally tailored resume on-device, with Firebase auth and real-time cloud sync.
+Gemini-powered Flutter mobile app that generates tailored resumes from user input with Firebase auth and real-time sync.
 
 **Stack:** `Flutter` `Dart` `Firebase` `Gemini API`
 
 - ✅ Google Gemini API integration
-- ✅ Firebase Authentication & sync
+- ✅ Firebase Authentication
 - ✅ Cross-platform mobile
 
 <a href="https://github.com/MUHAMMAD-MUHID/Ai-resume-builder">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -212,37 +207,35 @@ Users input their details and the Gemini API generates a professionally tailored
 <tr>
 <td width="50%">
 
-### 🔐 File Encryption & Decryption Tool
-> Desktop security app using AES & DES algorithms
+### 🔐 File Encryption Tool
 
-Encrypts and decrypts local files using industry-standard symmetric algorithms via a clean Tkinter GUI with drag-and-drop support.
+Desktop app implementing AES and DES algorithms via Python Cryptography library with a clean Tkinter GUI.
 
 **Stack:** `Python` `Tkinter` `AES` `DES` `Cryptography`
 
-- ✅ AES & DES implementations
+- ✅ AES and DES implementations
 - ✅ Drag-and-drop file selection
 - ✅ Secure local data protection
 
 <a href="https://github.com/MUHAMMAD-MUHID/file-encryption-decryption">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%">
 
 ### 🚖 Taxi Booking System
-> Full-featured booking platform with admin panel
 
-End-to-end ride management covering customer & driver registration, ride assignment algorithm, booking history, and a full admin control panel.
+Full booking platform with customer and driver registration, ride assignment algorithm, history tracking, and admin panel.
 
 **Stack:** `Python` `Tkinter` `OOP Design`
 
 - ✅ Driver assignment algorithm
-- ✅ Full booking history log
+- ✅ Full booking history
 - ✅ Admin management panel
 
 <a href="https://github.com/MUHAMMAD-MUHID/Taxi-Management-System">
-  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+  <img src="https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -253,15 +246,15 @@ End-to-end ride management covering customer & driver registration, ride assignm
 
 ---
 
-## 🎯 Leadership & Community
+## 🎯 Leadership and Community
 
 <div align="center">
 
 | Role | Organization | Period | Impact |
 |------|-------------|--------|--------|
-| 🎤 **Event Lead** | Tech Awareness Seminar — ICB Boys School | May 2025 | Led AI & Cybersecurity sessions for 200+ students (Grades 8–10) |
-| 👥 **Active Member** | AUCIS — Air University Computing & Innovation Society | 2025–Present | Co-organizing university-level tech events |
-| 💻 **Team Member** | Google Developer Groups (GDG) Air University | 2024–2025 | Firebase & Flutter community workshops |
+| 🎤 **Event Lead** | Tech Awareness Seminar, ICB Boys School | May 2025 | Led AI and Cybersecurity sessions for 200+ students |
+| 👥 **Active Member** | AUCIS, Air University Computing and Innovation Society | 2025 - Present | Co-organizing university-level tech events |
+| 💻 **Team Member** | Google Developer Groups (GDG) Air University | 2024 - 2025 | Firebase and Flutter community workshops |
 
 </div>
 
@@ -291,18 +284,18 @@ End-to-end ride management covering customer & driver registration, ride assignm
 
 <div align="center">
 
-> *"I'm actively seeking internship opportunities in Software Engineering or AI. If you're building something interesting, let's talk."*
+> *"Actively seeking internship opportunities in Software Engineering or AI. If you are building something interesting, let's talk."*
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muhid-baloach-43763130b/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/muhammad-muhid-43763130b/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://main--muhammad-muhid-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/View_My_Portfolio-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 <a href="mailto:muhidbalouch@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
