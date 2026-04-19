@@ -19,16 +19,25 @@
 
 <div align="center">
   
-|---|---|
-| 🏷️ **Name** | Muhammad Muhid |
-| 📍 **Location** | Islamabad, Pakistan |
-| 🎓 **University** | Air University \| BSc CS (2023-2027) |
-| 💼 **Role** | Full-Stack Developer & AI Enthusiast |
-| 🎯 **Seeking** | Internship in Software or AI Engineering |
-| 🔨 **Working On** | AI Phishing Email Detector • Flutter • Open Source |
-| 💬 **Ask Me About** | React • Flutter • Python • Firebase • REST APIs • ML |
-| 🎉 **Fun Fact** | I led an AI & Cybersecurity seminar for 200+ students |
-
+┌─────────────────────────────────────────────────────────────┐
+│ │
+│ 🏷️ Muhammad Muhid │
+│ 📍 Islamabad, Pakistan │
+│ 🎓 Air University | BSc CS (2023-2027) │
+│ 💼 Full-Stack Developer & AI Enthusiast │
+│ 🎯 Seeking: Internship in Software or AI Engineering │
+│ │
+│ 🔨 Working on: │
+│ • AI Phishing Email Detector (ML + React + Firebase) │
+│ • Flutter mobile development │
+│ • Open-source contributions │
+│ │
+│ 💬 Ask me about: React, Flutter, Python, Firebase, │
+│ REST APIs, Machine Learning │
+│ │
+│ 🎉 "I led an AI & Cybersecurity seminar for 200+ students"│
+│ │
+└─────────────────────────────────────────────────────────────┘
 
 </div>
 &nbsp;
