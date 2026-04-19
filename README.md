@@ -1,16 +1,256 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MUHAMMAD-MUHID/MUHAMMAD-MUHID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a3a5c,100:2c5f8a&height=200&section=header&text=Muhammad%20Muhid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=a8c8e8&animation=fadeIn" alt="Header Banner"/>
 
-Here are some ideas to get you started:
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C8FD1&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Flutter+%7C+React+%7C+Python+developer+%F0%9F%9A%80;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+internships+%26+collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- BADGES ROW -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Muhid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhid-baloach-43763130b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white)](https://main--muhammad-muhid-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Email-muhidbalouch@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhidbalouch@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/MUHAMMAD-MUHID?style=for-the-badge&logo=github&logoColor=white&color=1a3a5c)](https://github.com/MUHAMMAD-MUHID)
+
+<br/>
+
+<!-- PROFILE VIEWS + STATS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=MUHAMMAD-MUHID&style=for-the-badge&color=1a3a5c&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class MuhammadMuhid:
+    def __init__(self):
+        self.name        = "Muhammad Muhid"
+        self.location    = "Islamabad, Pakistan 🇵🇰"
+        self.university  = "Air University — BSc Computer Science (2023–2027)"
+        self.role        = "Full-Stack Developer & AI Enthusiast"
+        self.seeking     = "Internship opportunities in Software / AI Engineering"
+
+    @property
+    def currently_working_on(self):
+        return [
+            "AI-powered Phishing Email Detector (ML + React + Firebase)",
+            "Expanding my Flutter mobile development skills",
+            "Open-source contributions & building in public",
+        ]
+
+    @property
+    def ask_me_about(self):
+        return ["React", "Flutter", "Python", "Firebase", "REST APIs", "Machine Learning"]
+
+    def fun_fact(self):
+        return "I led an AI & Cybersecurity seminar for 200+ high school students 🎤"
+```
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-MUHID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2c8fd1&icon_color=2c8fd1&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-MUHID&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c8fd1&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MUHAMMAD-MUHID&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c8fd1&ring=2c8fd1&fire=ff6b35&currStreakLabel=2c8fd1&sideLabels=2c8fd1&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ AI Phishing Mail Detector
+> ML-powered email security tool with Outlook integration
+
+**What it does:** Fetches emails via Outlook API, runs them through a trained classification model, and surfaces results on a real-time dashboard.
+
+**Stack:**
+`React` `Python` `Scikit-learn` `PostgreSQL` `Firebase` `Bootstrap`
+
+**Highlights:**
+- ✅ Live Outlook API integration
+- ✅ Trained ML classification model
+- ✅ Real-time threat dashboard
+- ✅ Email statistics & analytics
+
+[![Code](https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUHAMMAD-MUHID/AI_Phishing_Mail_Detector)
+
+</td>
+<td width="50%">
+
+### 📄 AI Resume Builder
+> Gemini-powered mobile app for tailored resume generation
+
+**What it does:** Users input their details; Gemini API generates a professionally tailored resume on-device with Firebase auth and sync.
+
+**Stack:**
+`Flutter` `Dart` `Firebase` `Gemini API`
+
+**Highlights:**
+- ✅ Google Gemini API integration
+- ✅ Firebase Authentication
+- ✅ Real-time data sync
+- ✅ Cross-platform mobile app
+
+[![Code](https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUHAMMAD-MUHID/Ai-resume-builder)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 File Encryption & Decryption Tool
+> Desktop security app using AES & DES algorithms
+
+**What it does:** Lets users encrypt and decrypt files using industry-standard symmetric algorithms via a clean Tkinter GUI.
+
+**Stack:**
+`Python` `Tkinter` `Cryptography Library` `AES` `DES`
+
+**Highlights:**
+- ✅ AES & DES implementations
+- ✅ Drag-and-drop file selection
+- ✅ Secure local data protection
+- ✅ Clean desktop GUI
+
+[![Code](https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUHAMMAD-MUHID/file-encryption-decryption)
+
+</td>
+<td width="50%">
+
+### 🚖 Taxi Booking System
+> Full-featured booking platform with admin panel
+
+**What it does:** End-to-end ride management — customer & driver registration, ride assignment, booking history, and admin control panel.
+
+**Stack:**
+`Python` `Tkinter` `OOP Design`
+
+**Highlights:**
+- ✅ Driver assignment algorithm
+- ✅ Full booking history
+- ✅ Admin management panel
+- ✅ Clean OOP architecture
+
+[![Code](https://img.shields.io/badge/View_Code-1a3a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUHAMMAD-MUHID/Taxi-Management-System)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Leadership & Community
+
+<div align="center">
+
+| Role | Organization | Period | Impact |
+|------|-------------|--------|--------|
+| 🎤 **Event Lead** | Tech Awareness Seminar — ICB Boys School | May 2025 | Led AI & Cybersecurity sessions for 200+ students (Grades 8–10) |
+| 👥 **Active Member** | AUCIS — Air University Computing & Innovation Society | 2025–Present | Co-organizing university-level tech events & student engagement |
+| 💻 **Team Member** | Google Developer Groups (GDG) Air University | 2024–2025 | Community dev activities, Firebase & Flutter workshops |
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMAD-MUHID&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2c8fd1&line=2c8fd1&point=ffffff&area=true&area_color=1a3a5c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MUHAMMAD-MUHID&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+> *"I'm actively seeking internship opportunities in Software Engineering or AI. If you're building something interesting, let's talk."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhid-baloach-43763130b/)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-1a3a5c?style=for-the-badge&logo=firefox&logoColor=white)](https://main--muhammad-muhid-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhidbalouch@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f8a,50:1a3a5c,100:0f2027&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+
+</div>
