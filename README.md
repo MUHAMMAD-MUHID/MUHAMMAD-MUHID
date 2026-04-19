@@ -19,7 +19,6 @@
 
 <div align="center">
   
-| | |
 |---|---|
 | 🏷️ **Name** | Muhammad Muhid |
 | 📍 **Location** | Islamabad, Pakistan |
