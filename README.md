@@ -17,30 +17,19 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 <div align="center">
+  
+| | |
+|---|---|
+| 🏷️ **Name** | Muhammad Muhid |
+| 📍 **Location** | Islamabad, Pakistan |
+| 🎓 **University** | Air University \| BSc CS (2023-2027) |
+| 💼 **Role** | Full-Stack Developer & AI Enthusiast |
+| 🎯 **Seeking** | Internship in Software or AI Engineering |
+| 🔨 **Working On** | AI Phishing Email Detector • Flutter • Open Source |
+| 💬 **Ask Me About** | React • Flutter • Python • Firebase • REST APIs • ML |
+| 🎉 **Fun Fact** | I led an AI & Cybersecurity seminar for 200+ students |
 
-<img src="https://img.shields.io/badge/Name-Muhammad_Muhid-1a3a5c?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-2c8fd1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/University-Air_University_|_CS_2023--2027-0f2027?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Role-Full--Stack_Developer_&_AI_Enthusiast-ff6b35?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seeking-Internship_(Software_|_AI)-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-**🔨 Working On**
-![AI Phishing Detector](https://img.shields.io/badge/AI_Phishing_Detector-ML_+_React_+_Firebase-1a3a5c?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile_Dev-02569B?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributions-2c8fd1?style=flat-square)
-
-**💬 Ask Me About**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6B35?style=flat-square&logo=tensorflow&logoColor=white)
-
-🎉 **Fun Fact:** I led an AI & Cybersecurity seminar for 200+ students
 
 </div>
 &nbsp;
