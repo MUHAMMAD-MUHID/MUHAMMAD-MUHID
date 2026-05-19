@@ -133,13 +133,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-MUHID&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-MUHID&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1&v=3"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-MUHID&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-MUHID&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1&v=3"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MUHAMMAD-MUHID&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=MUHAMMAD-MUHID&theme=tokyonight&hide_border=true&cache_seconds=1&v=3"/>
 
 </div>
 
@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MUHAMMAD-MUHID&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MUHAMMAD-MUHID&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&v=3"/>
 
 </div>
 
@@ -159,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMAD-MUHID&theme=react-dark&hide_border=true&bg_color=0d1117&color=2c8fd1&line=2c8fd1&point=ffffff&area=true&area_color=1a3a5c"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMAD-MUHID&theme=react-dark&hide_border=true&area=true&v=3"/>
 
 </div>
 
